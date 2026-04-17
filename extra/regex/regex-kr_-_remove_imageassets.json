@@ -1,0 +1,18 @@
+{
+    "id": "e27f35d3-e228-4218-9cfb-f2132ebd4efd",
+    "scriptName": "KR - Remove ImageAssets",
+    "findRegex": "/<\\/?img=[^>]*>/gi",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": 3,
+    "maxDepth": null
+}
